@@ -1,0 +1,1 @@
+Creating a Jeporady style capture the flag using OWASP Juice box. This will run using a CTF tool and AWS, the goal is to use Terraform adn CI/CD in the process.
